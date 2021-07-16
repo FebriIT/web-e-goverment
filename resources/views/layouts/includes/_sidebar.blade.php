@@ -7,7 +7,7 @@
         </div>
         <div class="info">
             <a href="#" class="d-block">{{auth()->user()->name}}</a>
-            <span class="right badge badge-info">Admin</span>
+            <span class="right badge badge-info">Admin ada</span>
         </div>
     </div>
 
